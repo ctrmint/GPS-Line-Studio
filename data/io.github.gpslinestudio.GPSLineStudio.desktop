@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=GPS Line Studio
+Comment=Draw and save labelled GPS endpoint pairs on OpenStreetMap
+Exec=gps-line-studio
+Icon=mark-location-symbolic
+Terminal=false
+Categories=Graphics;Education;Geography;
+Keywords=GPS;OSM;Coordinates;Latitude;Longitude;Map;
+StartupNotify=true
